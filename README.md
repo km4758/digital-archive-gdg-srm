@@ -1,0 +1,2 @@
+# Digital Archive
+Web cross-platform implementation: multi-file import, metadata, persistent local storage, search/filter, rename/remove and graceful archive records. The physical file is not deleted when an archive entry is removed.
